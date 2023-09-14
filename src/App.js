@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom'
-import Home from './components/Home'
+import Home from './screens/Home'
 import Products from './screens/products'
 import NavBar from './components/NavBar'
 import NewProduct from './screens/new-product/Layout';
